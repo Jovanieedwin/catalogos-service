@@ -1,0 +1,58 @@
+C:\Users\hmeraz\Desktop\Archetypes\netcore3-generator\netcore3-generator\catalogos-service\Example.Catalogos.Facade\bin\Debug\netcoreapp3.1\Example.Catalogos.Facade.deps.json
+C:\Users\hmeraz\Desktop\Archetypes\netcore3-generator\netcore3-generator\catalogos-service\Example.Catalogos.Facade\bin\Debug\netcoreapp3.1\Example.Catalogos.Facade.dll
+C:\Users\hmeraz\Desktop\Archetypes\netcore3-generator\netcore3-generator\catalogos-service\Example.Catalogos.Facade\bin\Debug\netcoreapp3.1\Example.Catalogos.Facade.pdb
+C:\Users\hmeraz\Desktop\Archetypes\netcore3-generator\netcore3-generator\catalogos-service\Example.Catalogos.Facade\bin\Debug\netcoreapp3.1\Example.Catalogos.DataAccess.dll
+C:\Users\hmeraz\Desktop\Archetypes\netcore3-generator\netcore3-generator\catalogos-service\Example.Catalogos.Facade\bin\Debug\netcoreapp3.1\Example.Catalogos.Dtos.dll
+C:\Users\hmeraz\Desktop\Archetypes\netcore3-generator\netcore3-generator\catalogos-service\Example.Catalogos.Facade\bin\Debug\netcoreapp3.1\Example.Catalogos.Entities.dll
+C:\Users\hmeraz\Desktop\Archetypes\netcore3-generator\netcore3-generator\catalogos-service\Example.Catalogos.Facade\bin\Debug\netcoreapp3.1\Example.Catalogos.Services.dll
+C:\Users\hmeraz\Desktop\Archetypes\netcore3-generator\netcore3-generator\catalogos-service\Example.Catalogos.Facade\bin\Debug\netcoreapp3.1\Example.Catalogos.Services.pdb
+C:\Users\hmeraz\Desktop\Archetypes\netcore3-generator\netcore3-generator\catalogos-service\Example.Catalogos.Facade\bin\Debug\netcoreapp3.1\Example.Catalogos.DataAccess.pdb
+C:\Users\hmeraz\Desktop\Archetypes\netcore3-generator\netcore3-generator\catalogos-service\Example.Catalogos.Facade\bin\Debug\netcoreapp3.1\Example.Catalogos.Dtos.pdb
+C:\Users\hmeraz\Desktop\Archetypes\netcore3-generator\netcore3-generator\catalogos-service\Example.Catalogos.Facade\bin\Debug\netcoreapp3.1\Example.Catalogos.Entities.pdb
+C:\Users\hmeraz\Desktop\Archetypes\netcore3-generator\netcore3-generator\catalogos-service\Example.Catalogos.Facade\obj\Debug\netcoreapp3.1\Example.Catalogos.Facade.csprojAssemblyReference.cache
+C:\Users\hmeraz\Desktop\Archetypes\netcore3-generator\netcore3-generator\catalogos-service\Example.Catalogos.Facade\obj\Debug\netcoreapp3.1\Example.Catalogos.Facade.AssemblyInfoInputs.cache
+C:\Users\hmeraz\Desktop\Archetypes\netcore3-generator\netcore3-generator\catalogos-service\Example.Catalogos.Facade\obj\Debug\netcoreapp3.1\Example.Catalogos.Facade.AssemblyInfo.cs
+C:\Users\hmeraz\Desktop\Archetypes\netcore3-generator\netcore3-generator\catalogos-service\Example.Catalogos.Facade\obj\Debug\netcoreapp3.1\Example.Catalogos.Facade.csproj.CoreCompileInputs.cache
+C:\Users\hmeraz\Desktop\Archetypes\netcore3-generator\netcore3-generator\catalogos-service\Example.Catalogos.Facade\obj\Debug\netcoreapp3.1\Example.Catalogos.Facade.csproj.CopyComplete
+C:\Users\hmeraz\Desktop\Archetypes\netcore3-generator\netcore3-generator\catalogos-service\Example.Catalogos.Facade\obj\Debug\netcoreapp3.1\Example.Catalogos.Facade.dll
+C:\Users\hmeraz\Desktop\Archetypes\netcore3-generator\netcore3-generator\catalogos-service\Example.Catalogos.Facade\obj\Debug\netcoreapp3.1\Example.Catalogos.Facade.pdb
+C:\Users\Axity\Documents\Capacitación Axity\CAP Microservicios NET\catalogos-service\Example.Catalogos.Facade\bin\Debug\netcoreapp3.1\Example.Catalogos.Facade.deps.json
+C:\Users\Axity\Documents\Capacitación Axity\CAP Microservicios NET\catalogos-service\Example.Catalogos.Facade\bin\Debug\netcoreapp3.1\Example.Catalogos.Facade.dll
+C:\Users\Axity\Documents\Capacitación Axity\CAP Microservicios NET\catalogos-service\Example.Catalogos.Facade\bin\Debug\netcoreapp3.1\Example.Catalogos.Facade.pdb
+C:\Users\Axity\Documents\Capacitación Axity\CAP Microservicios NET\catalogos-service\Example.Catalogos.Facade\bin\Debug\netcoreapp3.1\Example.Catalogos.DataAccess.dll
+C:\Users\Axity\Documents\Capacitación Axity\CAP Microservicios NET\catalogos-service\Example.Catalogos.Facade\bin\Debug\netcoreapp3.1\Example.Catalogos.Dtos.dll
+C:\Users\Axity\Documents\Capacitación Axity\CAP Microservicios NET\catalogos-service\Example.Catalogos.Facade\bin\Debug\netcoreapp3.1\Example.Catalogos.Entities.dll
+C:\Users\Axity\Documents\Capacitación Axity\CAP Microservicios NET\catalogos-service\Example.Catalogos.Facade\bin\Debug\netcoreapp3.1\Example.Catalogos.Services.dll
+C:\Users\Axity\Documents\Capacitación Axity\CAP Microservicios NET\catalogos-service\Example.Catalogos.Facade\bin\Debug\netcoreapp3.1\Example.Catalogos.Services.pdb
+C:\Users\Axity\Documents\Capacitación Axity\CAP Microservicios NET\catalogos-service\Example.Catalogos.Facade\bin\Debug\netcoreapp3.1\Example.Catalogos.DataAccess.pdb
+C:\Users\Axity\Documents\Capacitación Axity\CAP Microservicios NET\catalogos-service\Example.Catalogos.Facade\bin\Debug\netcoreapp3.1\Example.Catalogos.Dtos.pdb
+C:\Users\Axity\Documents\Capacitación Axity\CAP Microservicios NET\catalogos-service\Example.Catalogos.Facade\bin\Debug\netcoreapp3.1\Example.Catalogos.Entities.pdb
+C:\Users\Axity\Documents\Capacitación Axity\CAP Microservicios NET\catalogos-service\Example.Catalogos.Facade\obj\Debug\netcoreapp3.1\Example.Catalogos.Facade.csprojAssemblyReference.cache
+C:\Users\Axity\Documents\Capacitación Axity\CAP Microservicios NET\catalogos-service\Example.Catalogos.Facade\obj\Debug\netcoreapp3.1\Example.Catalogos.Facade.AssemblyInfoInputs.cache
+C:\Users\Axity\Documents\Capacitación Axity\CAP Microservicios NET\catalogos-service\Example.Catalogos.Facade\obj\Debug\netcoreapp3.1\Example.Catalogos.Facade.AssemblyInfo.cs
+C:\Users\Axity\Documents\Capacitación Axity\CAP Microservicios NET\catalogos-service\Example.Catalogos.Facade\obj\Debug\netcoreapp3.1\Example.Catalogos.Facade.csproj.CoreCompileInputs.cache
+C:\Users\Axity\Documents\Capacitación Axity\CAP Microservicios NET\catalogos-service\Example.Catalogos.Facade\obj\Debug\netcoreapp3.1\Example.Catalogos.Facade.csproj.CopyComplete
+C:\Users\Axity\Documents\Capacitación Axity\CAP Microservicios NET\catalogos-service\Example.Catalogos.Facade\obj\Debug\netcoreapp3.1\Example.Catalogos.Facade.dll
+C:\Users\Axity\Documents\Capacitación Axity\CAP Microservicios NET\catalogos-service\Example.Catalogos.Facade\obj\Debug\netcoreapp3.1\Example.Catalogos.Facade.pdb
+C:\Users\Axity\Documents\Capacitación Axity\CAP Microservicios NET\catalogos-service\Example.Catalogos.Facade\bin\Debug\netcoreapp3.1\Example.Catalogos.Resources.dll
+C:\Users\Axity\Documents\Capacitación Axity\CAP Microservicios NET\catalogos-service\Example.Catalogos.Facade\bin\Debug\netcoreapp3.1\Example.Catalogos.Resources.pdb
+C:\Users\Edwin\Desktop\catalogos-service\Example.Catalogos.Facade\bin\Debug\netcoreapp3.1\Example.Catalogos.Facade.deps.json
+C:\Users\Edwin\Desktop\catalogos-service\Example.Catalogos.Facade\bin\Debug\netcoreapp3.1\Example.Catalogos.Facade.dll
+C:\Users\Edwin\Desktop\catalogos-service\Example.Catalogos.Facade\bin\Debug\netcoreapp3.1\Example.Catalogos.Facade.pdb
+C:\Users\Edwin\Desktop\catalogos-service\Example.Catalogos.Facade\bin\Debug\netcoreapp3.1\Example.Catalogos.DataAccess.dll
+C:\Users\Edwin\Desktop\catalogos-service\Example.Catalogos.Facade\bin\Debug\netcoreapp3.1\Example.Catalogos.Dtos.dll
+C:\Users\Edwin\Desktop\catalogos-service\Example.Catalogos.Facade\bin\Debug\netcoreapp3.1\Example.Catalogos.Entities.dll
+C:\Users\Edwin\Desktop\catalogos-service\Example.Catalogos.Facade\bin\Debug\netcoreapp3.1\Example.Catalogos.Resources.dll
+C:\Users\Edwin\Desktop\catalogos-service\Example.Catalogos.Facade\bin\Debug\netcoreapp3.1\Example.Catalogos.Services.dll
+C:\Users\Edwin\Desktop\catalogos-service\Example.Catalogos.Facade\bin\Debug\netcoreapp3.1\Example.Catalogos.Services.pdb
+C:\Users\Edwin\Desktop\catalogos-service\Example.Catalogos.Facade\bin\Debug\netcoreapp3.1\Example.Catalogos.DataAccess.pdb
+C:\Users\Edwin\Desktop\catalogos-service\Example.Catalogos.Facade\bin\Debug\netcoreapp3.1\Example.Catalogos.Dtos.pdb
+C:\Users\Edwin\Desktop\catalogos-service\Example.Catalogos.Facade\bin\Debug\netcoreapp3.1\Example.Catalogos.Entities.pdb
+C:\Users\Edwin\Desktop\catalogos-service\Example.Catalogos.Facade\bin\Debug\netcoreapp3.1\Example.Catalogos.Resources.pdb
+C:\Users\Edwin\Desktop\catalogos-service\Example.Catalogos.Facade\obj\Debug\netcoreapp3.1\Example.Catalogos.Facade.csprojAssemblyReference.cache
+C:\Users\Edwin\Desktop\catalogos-service\Example.Catalogos.Facade\obj\Debug\netcoreapp3.1\Example.Catalogos.Facade.AssemblyInfoInputs.cache
+C:\Users\Edwin\Desktop\catalogos-service\Example.Catalogos.Facade\obj\Debug\netcoreapp3.1\Example.Catalogos.Facade.AssemblyInfo.cs
+C:\Users\Edwin\Desktop\catalogos-service\Example.Catalogos.Facade\obj\Debug\netcoreapp3.1\Example.Catalogos.Facade.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\Desktop\catalogos-service\Example.Catalogos.Facade\obj\Debug\netcoreapp3.1\Example.Catalogos.Facade.csproj.CopyComplete
+C:\Users\Edwin\Desktop\catalogos-service\Example.Catalogos.Facade\obj\Debug\netcoreapp3.1\Example.Catalogos.Facade.dll
+C:\Users\Edwin\Desktop\catalogos-service\Example.Catalogos.Facade\obj\Debug\netcoreapp3.1\Example.Catalogos.Facade.pdb

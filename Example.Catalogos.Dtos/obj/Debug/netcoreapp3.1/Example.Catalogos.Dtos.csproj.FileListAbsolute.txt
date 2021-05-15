@@ -1,0 +1,27 @@
+C:\Users\hmeraz\Desktop\Archetypes\netcore3-generator\netcore3-generator\catalogos-service\Example.Catalogos.Dtos\bin\Debug\netcoreapp3.1\Example.Catalogos.Dtos.deps.json
+C:\Users\hmeraz\Desktop\Archetypes\netcore3-generator\netcore3-generator\catalogos-service\Example.Catalogos.Dtos\bin\Debug\netcoreapp3.1\Example.Catalogos.Dtos.dll
+C:\Users\hmeraz\Desktop\Archetypes\netcore3-generator\netcore3-generator\catalogos-service\Example.Catalogos.Dtos\bin\Debug\netcoreapp3.1\Example.Catalogos.Dtos.pdb
+C:\Users\hmeraz\Desktop\Archetypes\netcore3-generator\netcore3-generator\catalogos-service\Example.Catalogos.Dtos\obj\Debug\netcoreapp3.1\Example.Catalogos.Dtos.csprojAssemblyReference.cache
+C:\Users\hmeraz\Desktop\Archetypes\netcore3-generator\netcore3-generator\catalogos-service\Example.Catalogos.Dtos\obj\Debug\netcoreapp3.1\Example.Catalogos.Dtos.AssemblyInfoInputs.cache
+C:\Users\hmeraz\Desktop\Archetypes\netcore3-generator\netcore3-generator\catalogos-service\Example.Catalogos.Dtos\obj\Debug\netcoreapp3.1\Example.Catalogos.Dtos.AssemblyInfo.cs
+C:\Users\hmeraz\Desktop\Archetypes\netcore3-generator\netcore3-generator\catalogos-service\Example.Catalogos.Dtos\obj\Debug\netcoreapp3.1\Example.Catalogos.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\hmeraz\Desktop\Archetypes\netcore3-generator\netcore3-generator\catalogos-service\Example.Catalogos.Dtos\obj\Debug\netcoreapp3.1\Example.Catalogos.Dtos.dll
+C:\Users\hmeraz\Desktop\Archetypes\netcore3-generator\netcore3-generator\catalogos-service\Example.Catalogos.Dtos\obj\Debug\netcoreapp3.1\Example.Catalogos.Dtos.pdb
+C:\Users\Axity\Documents\Capacitación Axity\CAP Microservicios NET\catalogos-service\Example.Catalogos.Dtos\bin\Debug\netcoreapp3.1\Example.Catalogos.Dtos.deps.json
+C:\Users\Axity\Documents\Capacitación Axity\CAP Microservicios NET\catalogos-service\Example.Catalogos.Dtos\bin\Debug\netcoreapp3.1\Example.Catalogos.Dtos.dll
+C:\Users\Axity\Documents\Capacitación Axity\CAP Microservicios NET\catalogos-service\Example.Catalogos.Dtos\bin\Debug\netcoreapp3.1\Example.Catalogos.Dtos.pdb
+C:\Users\Axity\Documents\Capacitación Axity\CAP Microservicios NET\catalogos-service\Example.Catalogos.Dtos\obj\Debug\netcoreapp3.1\Example.Catalogos.Dtos.csprojAssemblyReference.cache
+C:\Users\Axity\Documents\Capacitación Axity\CAP Microservicios NET\catalogos-service\Example.Catalogos.Dtos\obj\Debug\netcoreapp3.1\Example.Catalogos.Dtos.AssemblyInfoInputs.cache
+C:\Users\Axity\Documents\Capacitación Axity\CAP Microservicios NET\catalogos-service\Example.Catalogos.Dtos\obj\Debug\netcoreapp3.1\Example.Catalogos.Dtos.AssemblyInfo.cs
+C:\Users\Axity\Documents\Capacitación Axity\CAP Microservicios NET\catalogos-service\Example.Catalogos.Dtos\obj\Debug\netcoreapp3.1\Example.Catalogos.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\Axity\Documents\Capacitación Axity\CAP Microservicios NET\catalogos-service\Example.Catalogos.Dtos\obj\Debug\netcoreapp3.1\Example.Catalogos.Dtos.dll
+C:\Users\Axity\Documents\Capacitación Axity\CAP Microservicios NET\catalogos-service\Example.Catalogos.Dtos\obj\Debug\netcoreapp3.1\Example.Catalogos.Dtos.pdb
+C:\Users\Edwin\Desktop\catalogos-service\Example.Catalogos.Dtos\bin\Debug\netcoreapp3.1\Example.Catalogos.Dtos.deps.json
+C:\Users\Edwin\Desktop\catalogos-service\Example.Catalogos.Dtos\bin\Debug\netcoreapp3.1\Example.Catalogos.Dtos.dll
+C:\Users\Edwin\Desktop\catalogos-service\Example.Catalogos.Dtos\bin\Debug\netcoreapp3.1\Example.Catalogos.Dtos.pdb
+C:\Users\Edwin\Desktop\catalogos-service\Example.Catalogos.Dtos\obj\Debug\netcoreapp3.1\Example.Catalogos.Dtos.csprojAssemblyReference.cache
+C:\Users\Edwin\Desktop\catalogos-service\Example.Catalogos.Dtos\obj\Debug\netcoreapp3.1\Example.Catalogos.Dtos.AssemblyInfoInputs.cache
+C:\Users\Edwin\Desktop\catalogos-service\Example.Catalogos.Dtos\obj\Debug\netcoreapp3.1\Example.Catalogos.Dtos.AssemblyInfo.cs
+C:\Users\Edwin\Desktop\catalogos-service\Example.Catalogos.Dtos\obj\Debug\netcoreapp3.1\Example.Catalogos.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\Desktop\catalogos-service\Example.Catalogos.Dtos\obj\Debug\netcoreapp3.1\Example.Catalogos.Dtos.dll
+C:\Users\Edwin\Desktop\catalogos-service\Example.Catalogos.Dtos\obj\Debug\netcoreapp3.1\Example.Catalogos.Dtos.pdb
